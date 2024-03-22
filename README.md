@@ -41,7 +41,7 @@ desc  invoice;
 create table PARTICULAR(
  ID int not null AUTO_INCREMENT,
  INVOICENUMBER varchar (50),
- ITEM varchar (50) ,
+ ITEM varchar (200) ,
  HSN_SAC varchar(50),
  QUANTITY varchar(10),
  RATE DECIMAL(6,2),
