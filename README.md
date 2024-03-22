@@ -1,2 +1,2 @@
 # OmSakthi-Software
-Developed a Sale order Billing application software. Using Angular for the front end, Spring Boot for the backend, with MySQL database Project has user management, Vendor management and Invoice management. 
+Developed a Sale order Billing application software. Using Angular for the front end, Spring Boot for the backend, with MySQL database Project has user management, Vendor management and Invoice management. Project has user management, Vendor management and Invoice management. In user management includes User and roll creation, Login Authentication. Vendor management includes Vendor Creation, update, and delete. Invoice management includes Invoice Create, updating, and delete.
